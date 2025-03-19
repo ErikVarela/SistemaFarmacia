@@ -13,5 +13,3 @@ Paradigma de Herança (Gerente e Caixa como subclasses de um funcionário genér
 Criar instâncias de funcionários
 
 Definir e obter informações como nome, matrícula e salário
-
-**Exibir dados no console**
