@@ -1,15 +1,20 @@
-**📌 Projeto Java - Gestão de Funcionários**
+# 💊 Sistema de Farmácia
 
-Este projeto demonstra a implementação de uma estrutura simples para gerenciamento de funcionários utilizando Java.
+Este é um sistema simples de farmácia desenvolvido em Java. O sistema realiza o cadastro e gerenciamento de **funcionários**, **clientes** e **medicamentos**, utilizando conceitos de **POO**, **herança** e **classes abstratas**.
 
-**🚀 Tecnologias Utilizadas**
+## 🚀 Funcionalidades
 
-Java (Programação Orientada a Objetos)
+- Cadastro, listagem, atualização e remoção de:
+  - Funcionários
+  - Clientes
+  - Medicamentos
+- Interface em linha de comando (console)
+- Utilização de boas práticas com orientação a objetos
 
-Paradigma de Herança (Gerente e Caixa como subclasses de um funcionário genérico)
+## 🛠️ Tecnologias Utilizadas
 
-**📋 Funcionalidades**
+- Java 21.0.5
 
-Criar instâncias de funcionários
 
-Definir e obter informações como nome, matrícula e salário
+👨‍💻 Autor: Erik Varela – [LinkedIn](https://www.linkedin.com/in/erikvarela/) • [GitHub](https://github.com/ErikVarela)
+
